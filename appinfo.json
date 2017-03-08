@@ -3,8 +3,8 @@
     "capabilities": [
         ""
     ],
-    "companyName": "mitcheld@mtu.edu",
-    "longName": "Imgurmon",
+    "companyName": "Clark Industries",
+    "longName": "Loomismon",
     "projectType": "native",
     "resources": {
         "media": [
@@ -147,7 +147,7 @@
         ]
     },
     "sdkVersion": "2",
-    "shortName": "Imgurmon",
+    "shortName": "Loomis",
     "uuid": "139b8a77-436d-40e6-96c0-b4b80a7e1621",
     "versionCode": 1,
     "versionLabel": "1.21",
